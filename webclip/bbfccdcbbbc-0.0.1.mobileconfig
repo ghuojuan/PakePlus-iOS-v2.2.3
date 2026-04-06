@@ -14,35 +14,35 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>笔趣</string>
+			<string>五二书库</string>
 			<key>PayloadDescription</key>
 			<string>Configuration Payload description</string>
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-73B53E1C5896</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-63E2C1DB4384</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-73B53E1C5896</string>
+			<string>E0736409-C08F-4F54-86DA-63E2C1DB4384</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://m.mfxs0.cn/</string>
+			<string>https://www.52shuku.net/</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>PakePlus-iOS-bbfccdcbbbc</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-73B53E1C5896</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-63E2C1DB4384</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-73B53E1C5896</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-63E2C1DB4384</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
