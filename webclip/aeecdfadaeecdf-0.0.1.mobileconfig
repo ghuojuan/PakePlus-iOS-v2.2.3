@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>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</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>笔趣</string>
+			<key>PayloadDescription</key>
+			<string>Configuration Payload description</string>
+			<key>PayloadDisplayName</key>
+			<string>PakePayload</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-2126BFDEDFCD</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E0736409-C08F-4F54-86DA-2126BFDEDFCD</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://m.mfxs0.cn/</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>PakePlus-iOS-aeecdfadaeecdf</string>
+	<key>PayloadIdentifier</key>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-2126BFDEDFCD</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-2126BFDEDFCD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
